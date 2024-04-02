@@ -21,7 +21,7 @@ include:
   - board: parkfun_pro_micro_rp2040
     shield: cradio_left
   - board: sparkfun_pro_micro_rp2040
-    shield: cradio_pright
+    shield: cradio_right
   - board: sparkfun_pro_micro_rp2040
     shield: settings_reset
     # cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
